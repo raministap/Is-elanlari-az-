@@ -1,6 +1,6 @@
-import Hero from '@/components/Hero'
-import Categories from '@/components/Categories'
-import FeaturedJobs from '@/components/FeaturedJobs'
+import Hero from '../components/Hero'
+import Categories from '../components/Categories'
+import FeaturedJobs from '../components/FeaturedJobs'
 
 export default function Home() {
   return (
